@@ -29,7 +29,7 @@ A simple AI chatbot web app powered by Flask and [Groq API](https://console.groq
 ├── app.py               # Flask backend with chat route
 ├── templates/
 │   └── index.html       # Chat UI (auto-rendered by Flask)
-├── static/              # (Optional) place CSS/JS here
+├── static/              # CSS
 ├── requirements.txt     # Python dependencies
 ├── Procfile             # For deploying on Render
 ├── .env                 # Contains your GROQ\_API\_KEY
