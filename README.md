@@ -114,8 +114,8 @@ This project is licensed under the MIT License — feel free to use, remix, and 
 
 ## Author
 
-Built by \Yusuf Adepoju
-GitHub: [@your-username](https://github.com/yusufadepoju1)
+Built by Yusuf Adepoju
+GitHub: (https://github.com/yusufadepoju1)
 
 
 ---
