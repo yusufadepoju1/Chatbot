@@ -1,12 +1,9 @@
-Here is a clean, professional `README.md` file for your Flask + Groq AI Assistant project, written in a way that works well on GitHub and Render:
 
----
 
 #  AI Assistant Chatbot
 
 A simple AI chatbot web app powered by Flask and [Groq API](https://console.groq.com/). Users can chat with an intelligent assistant through a sleek web interface.
 
----
 
 ##  Features
 
@@ -20,7 +17,7 @@ A simple AI chatbot web app powered by Flask and [Groq API](https://console.groq
 
 ##  Live Demo
 
-> Coming soon — deploy it to your Render account and share your link here!
+>https://chatbot-3-w1ns.onrender.com/ 
 
 ---
 
@@ -28,7 +25,7 @@ A simple AI chatbot web app powered by Flask and [Groq API](https://console.groq
 
 ```
 
-.
+
 ├── app.py               # Flask backend with chat route
 ├── templates/
 │   └── index.html       # Chat UI (auto-rendered by Flask)
@@ -46,7 +43,7 @@ A simple AI chatbot web app powered by Flask and [Groq API](https://console.groq
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/ai-assistant-chatbot.git
+git clone https://github.com/yusufadepoju1/Chatbot.git
 cd ai-assistant-chatbot
 ````
 
@@ -54,7 +51,7 @@ cd ai-assistant-chatbot
 
 ```bash
 python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+venv\Scripts\activate
 ```
 
 ### 3. Install Dependencies
@@ -101,31 +98,23 @@ web: gunicorn app:app
 
 ---
 
-## 🧪 Example `.env` file
+##  Example `.env` file
 
 ```
 GROQ_API_KEY=your_actual_api_key_here
 ```
 
-Don’t commit this file publicly — it's ignored using `.gitignore`.
-
 ---
 
-## 📸 Screenshot
-
-> Add a screenshot of your chatbot UI here!
-
----
-
-## 📄 License
+##  License
 
 This project is licensed under the MIT License — feel free to use, remix, and deploy.
 
 ---
 
-## 🙋‍♂️ Author
+## Author
 
-Built with ❤️ by \Yusuf Adepoju
+Built by \Yusuf Adepoju
 GitHub: [@your-username](https://github.com/yusufadepoju1)
 
 
