@@ -78,7 +78,7 @@ Visit `http://localhost:5000` in your browser.
 
 ---
 
-## 🌐 Deployment (Render)
+## Deployment (Render)
 
 ### Files required:
 
